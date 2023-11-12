@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Exercicis","c":"Peca","l":"getTimeStamp()"},{"p":"Exercicis","c":"Peca","l":"procesFabricacio(int)"},{"p":"Exercicis","c":"Peca","l":"run()"}];updateSearchResults();
